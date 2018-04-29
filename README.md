@@ -1,0 +1,2 @@
+# testlucru
+exercitiu
